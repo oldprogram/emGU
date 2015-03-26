@@ -43,3 +43,6 @@ Temporary Items
 .apdisk
 Kalman Filter x64/Kalman Filter/obj/x86/Debug/Kalman Filter.csproj.FileListAbsolute.txt
 *.cache
+*.suo
+Kalman Filter x64/Kalman Filter/Kalman Filter.csproj
+*.txt
