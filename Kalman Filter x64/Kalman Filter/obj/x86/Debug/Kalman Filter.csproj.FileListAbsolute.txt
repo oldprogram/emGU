@@ -150,3 +150,5 @@ C:\Users\LiTao\Desktop\Kalman Filter x64\Kalman Filter\obj\x86\Debug\Kalman Filt
 C:\Users\LiTao\Desktop\Kalman Filter x64\Kalman Filter\obj\x86\Debug\Kalman_Filter.Form1.resources
 C:\Users\LiTao\Desktop\Kalman Filter x64\Kalman Filter\obj\x86\Debug\Kalman_Filter.Properties.Resources.resources
 C:\Users\LiTao\Desktop\Kalman Filter x64\Kalman Filter\obj\x86\Debug\Kalman Filter.csproj.GenerateResource.Cache
+C:\Users\LiTao\Documents\GitHub\emGU\Kalman Filter x64\Kalman Filter\obj\x86\Debug\Kalman Filter.exe
+C:\Users\LiTao\Documents\GitHub\emGU\Kalman Filter x64\Kalman Filter\obj\x86\Debug\Kalman Filter.pdb
